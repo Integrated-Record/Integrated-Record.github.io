@@ -24,6 +24,7 @@ navbar-links:
     - About: "about"
     - People: "people"
     - Code of conduct: "code_of_conduct"
+  Motivation: "motivation"
   Join: "join_us"
 
 ################
