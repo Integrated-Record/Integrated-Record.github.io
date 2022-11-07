@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Motivation 
+permalink: /motivation/
 ---
 
 Our knowledge about the history of life on Earth is humanity’s shared heritage. The analyses of databases that archive this knowledge has become a cornerstone of modern paleontological/evolutionary research, which is crucially dependent on computational infrastructure and human resources.
