@@ -20,12 +20,9 @@ author: Integrated Record of Ancient Life
 ###############################################
 
 navbar-links:
-  Organisation:
-    - About: "about"
-    - People: "people"
-    - Code of conduct: "code_of_conduct"
+  About: "about"
   Motivation: "motivation"
-  Join: "join_us"
+  Code of conduct: "code_of_conduct"
 
 ################
 # --- Logo --- #

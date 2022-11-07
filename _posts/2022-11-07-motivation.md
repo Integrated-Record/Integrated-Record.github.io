@@ -12,9 +12,23 @@ Our knowledge about the history of life on Earth is humanity’s shared heritage
 
 3. We support that the organisation (1) be responsible for the management, curation and the organisation of the next generation of data service to be used in paleontological/evolutionary research.
 
-  Open Science Collaboration
 
-### List of Members
+
+<div style="text-align:right">
+  Open Science Collaboration
+</div>
+
+<br>
+
+<div style="text-align:center">
+<a class="btn btn-success btn-lg get-started-btn" href="https://forms.gle/JbTzFR1ZkmsborsS9">
+Do you want to join and support us? 
+</a>
+</div>
+
+<br>
+
+### Open Science Collaboration - List of Members
 
 {% for person in site.data.supporters %}
 
