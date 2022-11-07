@@ -3,8 +3,6 @@ layout: post
 title: Motivation 
 ---
 
-# Motivation
-
 Our knowledge about the history of life on Earth is humanity’s shared heritage. The analyses of databases that archive this knowledge has become a cornerstone of modern paleontological/evolutionary research, which is crucially dependent on computational infrastructure and human resources.
  
 1. We support the establishment of an open, global organisation that ensures that data provision for paleontological/evolutionary research is robust, openly accessible, unbiased, equitable and sustainable. 
