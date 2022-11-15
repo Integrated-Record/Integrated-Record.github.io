@@ -1,11 +1,11 @@
 prefix,first_name,middle_name,last_name,suffix,institute,country,webpage
-Dr.,Katie,,Collins,PhD,"Natural History Museum, London",UK,
-Dr.,Kenneth,,De Baets,PhD,University of Warsaw,Poland,
-Dr.,Emma,,Dunne,PhD,FAU-Erlangen-Nürnberg,Germany,
-Prof. Dr.,Seth,,Finnegan,PhD,"University of California, Berkeley",USA,
+Dr.,Katie,,Collins,PhD,"Natural History Museum, London",United Kingdom,https://www.nhm.ac.uk/our-science/departments-and-staff/staff-directory/katie-collins.html
+Dr.,Kenneth,,De Baets,PhD,University of Warsaw,Poland,https://ibe.biol.uw.edu.pl/en/people/dr-hab-kenneth-de-baets/
+Dr.,Emma,,Dunne,PhD,FAU-Erlangen-Nürnberg,Germany,https://www.gzn.nat.fau.eu/palaeontologie/team/wissenschaftler/emma-dunne/
+Prof. Dr.,Seth,,Finnegan,PhD,"University of California, Berkeley",United States of America,https://ib.berkeley.edu/people/faculty/finnegans
 Dr.,Adam,T. ,Kocsis,PhD,FAU-Erlangen-Nürnberg,Germany,https://www.gzn.nat.fau.de/palaeontologie/team/wissenschaftler/kocsis/
-Prof. Dr.,Lee Hsiang,,Liow,PhD,University of Oslo,Norway,
-Prof. Dr.,Lin,,Na,PhD,Nanjing Institute of Geology and Paleontology,China,
-Prof. Dr.,Shanan,,Peters,PhD,University of Wisconsin,USA,
-Prof. Dr.,Erin,,Saupe,PhD,University of Oxford,UK,
-Dr.,Edie,,Stewart,PhD,Smithsonian NMNH,USA,
+Prof. Dr.,Lee Hsiang,,Liow,PhD,University of Oslo,Norway,https://www.nhm.uio.no/english/about/organization/research-collections/people/leehl/index.html
+Dr.,Lin,,Na,PhD,Nanjing Institute of Geology and Paleontology,China,http://english.nigpas.cas.cn/People/fy/arpr/index_21031.html?json=http://sourcedb.nigpas.cas.cn/cn/pep/zl/201704/t20170426_6493579.json
+Prof. Dr.,Shanan,,Peters,PhD,University of Wisconsin,United States of America,https://geoscience.wisc.edu/people/peters-shanan/
+Prof. Dr.,Erin,E.,Saupe,PhD,University of Oxford,United Kingdom,https://www.earth.ox.ac.uk/people/erin-saupe/
+Dr.,Edie,,Stewart,PhD,Smithsonian NMNH,United States of America,https://naturalhistory.si.edu/staff/stewart-edie

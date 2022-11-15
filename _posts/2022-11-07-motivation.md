@@ -28,7 +28,30 @@ Do you want to join and support us?
 
 <br>
 
-### Open Science Collaboration - List of Members
+# Open Science Collaboration 
+
+  
+
+### I. Endorsing databases
+
+<div style="display:grid;grid-template-rows:auto">
+
+{% for db in site.data.databases %}
+
+<div style="grid-row;margin-top:10px;margin-bottom:10px">
+
+<a href="{{db['webpage']}}">
+<img src="{{site.baseurl}}{{site.url}}/images/logos/{{db['logo']}}" alt="{{db['database']}} logo" height="100px" style="margin-left:20px;margin-right:20px">
+<strong>{{db['database']}}</strong>
+</a>
+
+</div>
+
+{% endfor %}
+
+</div>
+
+### II. List of Members
 
 {% for person in site.data.supporters %}
 
@@ -43,5 +66,6 @@ Do you want to join and support us?
 {% endif %}
 
 {% endfor %}
+
 
 
