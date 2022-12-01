@@ -10,9 +10,6 @@ Our knowledge about the history of life on Earth is humanity’s shared heritage
 2. We support the establishment of an openly-developed, community-owned, internationally-organised data lake that aims to synthesise data on the history of life from existing databases, published literature, and museum/institutional collections. The data service is expected to support the assessment of previously untestable scientific hypotheses through the integration of ancient, historical and present-day biological information, which will increase spatio-temporal coverage of the fossil record and provide specimen/organism-level data of global coverage.
 3. We support this organisation as responsible for the management, curation and organisation of the next generation of data service to be used in paleontological/evolutionary research.
 
-Open Science Collaboration
-
-
 
 <div style="text-align:right">
   Open Science Collaboration
