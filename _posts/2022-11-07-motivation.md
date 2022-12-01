@@ -4,13 +4,11 @@ title: Motivation
 permalink: /motivation/
 ---
 
-Our knowledge about the history of life on Earth is humanity’s shared heritage. The analyses of databases that archive this knowledge have become a cornerstone of modern paleontological/evolutionary research, which is crucially dependent on computational infrastructure and human resources.
+Our knowledge about the history of life on Earth is humanity’s shared heritage. Analyses that rely on databases that archive this knowledge have become a cornerstone of modern paleontological/evolutionary research, which is crucially dependent on computational infrastructure and human resources. The integration of publicly available data on our fossil heritage will improve scientific outcomes for all. 
  
 1. We support the establishment of an open, global organisation that ensures that data provision for paleontological/evolutionary research is robust, openly accessible, unbiased, equitable and sustainable. 
-
-2. We support the establishment of an openly-developed, community-owned, internationally-organised data lake that aims at integrating data from existing databases, published literature and museum/institutional collections. The data service is expected to support previously untestable scientific hypotheses by increasing the spatio-temporal coverage of the fossil record and providing specimen-level data of global coverage.
-
-3. We support that the organisation (1) be responsible for the management, curation and the organisation of the next generation of data service to be used in paleontological/evolutionary research.
+2. We support the establishment of an openly-developed, community-owned, internationally-organised data lake that aims to synthesise data on the history of life from existing databases, published literature, and museum/institutional collections. The data service is expected to support the assessment of previously untestable scientific hypotheses through the integration of ancient, historical and present-day biological information, which will increase spatio-temporal coverage of the fossil record and provide specimen/organism-level data of global coverage.
+3. We support this organisation as responsible for the management, curation and organisation of the next generation of data service to be used in paleontological/evolutionary research.
 
 Open Science Collaboration
 
