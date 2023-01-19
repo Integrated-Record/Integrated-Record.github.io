@@ -27,7 +27,6 @@ Discrimination or harassment of any kind will not be tolerated, including, but n
 - Nonconsensual or unwelcome physical contact or sexual attention
 - Continuing to initiate interaction with someone after being asked to stop
 
-
 ### Reporting unacceptable behaviour:
 
 If you are the subject of unacceptable behaviour or have witnessed any behaviour that violates the Code of Conduct, we ask that you report it. This can be done by (1) speaking in confidence to either (or both) of the project coordinators, (2) by contacting the PaleoSynthesis porject manager, Barbara Seuß. 
